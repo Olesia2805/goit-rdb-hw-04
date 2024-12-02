@@ -10,7 +10,7 @@ USE LibraryManagement;
 
 CREATE TABLE authors(
     author_id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
-    author_name VARCHAR(255)
+    author_name VARCHAR(255) NOT NULL
 );
 
 -- c) Table "genres":
