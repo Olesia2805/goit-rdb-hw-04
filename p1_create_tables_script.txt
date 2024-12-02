@@ -5,8 +5,8 @@ CREATE SCHEMA LibraryManagement;
 USE LibraryManagement;
 
 -- b) Table "authors":
--- -- author_id (INT, auto-incrementing PRIMARY KEY)
--- -- author_name (VARCHAR)
+-- author_id (INT, auto-incrementing PRIMARY KEY)
+-- author_name (VARCHAR)
 
 CREATE TABLE authors(
     author_id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
