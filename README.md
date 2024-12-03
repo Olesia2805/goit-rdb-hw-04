@@ -27,7 +27,7 @@
 #### 4.1 Determine how many rows you received (using the COUNT operator).
 ![task4.1_inner_join](./p4_number_of_rows_inner_join.png)
 
-#### 4.2 Change several INNER statements to LEFT or RIGHT. Determine what happens to the number of rows. Why? Write the answer in a text file.
+#### 4.2 Change several INNER statements to LEFT or RIGHT. Determine what happens to the number of rows. [Why? Write the answer in a text file. ](./joins.md)
 ![task4.2.1_left_join](./p4_number_of_rows_left_join.png)
 ![task4.2.2_right_join](./p4_number_of_rows_right_join.png)
 ![task4.2.3_combination](./p4_number_of_rows.png)
