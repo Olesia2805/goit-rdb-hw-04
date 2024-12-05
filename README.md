@@ -27,10 +27,12 @@
 #### 4.1 Determine how many rows you received (using the COUNT operator).
 ![task4.1_inner_join](./p4_number_of_rows_inner_join.png)
 
-#### 4.2 Change several INNER statements to LEFT or RIGHT. Determine what happens to the number of rows. [Why? Write the answer in a text file. ](./joins.md)
+#### 4.2 Change several INNER statements to LEFT or RIGHT. Determine what happens to the number of rows. [Why? Write the answer in a text file. ](./p4.2_joins.txt)
+[also an explanation based on the table with the books](./joins.md)
 ![task4.2.1_left_join](./p4_number_of_rows_left_join.png)
 ![task4.2.2_right_join](./p4_number_of_rows_right_join.png)
 ![task4.2.3_combination](./p4_number_of_rows.png)
+![task4.2._additional_rows](./p4_17_additional_rows.png)
 
 #### 4.3 Select only those rows where employee_id > 3 and ≤ 10.
 ![task4.3_where](./p4_number_of_rows_where.png)
